@@ -1,0 +1,15 @@
+.container {
+  margin-left: 280px;
+  margin-right: 280px;
+}
+
+.other-options {
+  align-items: center;
+}
+
+.select-area {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  flex-direction: row;
+  display: flex;
+}
